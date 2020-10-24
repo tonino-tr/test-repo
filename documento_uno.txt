@@ -1,3 +1,4 @@
 Documento uno di Test per Git
 Modifica uno 
+Adesso la riga 3 precedente è stata eliminata
 Ciao
