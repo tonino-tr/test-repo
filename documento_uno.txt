@@ -2,4 +2,7 @@ Documento uno di Test per Git
 Modifica uno 
 Adesso la riga 3 precedente è stata eliminata
 Adesso provo a cambiare ramo
+
+Ora modifico il file per avere un conflitto durante il merge.
+
 Ciao
