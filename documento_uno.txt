@@ -1,17 +1,18 @@
 Documento uno di Test per Git
 Modifica uno 
-Adesso la riga 3 precedente è stata eliminata
-Adesso provo a cambiare ramo
 
 Ora modifico il file per avere 
 un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
+<<<<<<< HEAD
 questa riga è modificata sul ramo test-1
 ciao ciao
 
 modifica dal ramo test-1
 per provocare errore nel merge
+=======
+>>>>>>> master
 
 Ciao
