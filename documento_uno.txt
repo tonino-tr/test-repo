@@ -6,10 +6,10 @@ un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
-commit da tset-1
+commit da ????
 
 
-modifiche di master
+modifiche da branch master
 per test merge
 
 
