@@ -8,4 +8,8 @@ un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
+ciao ciao
+
+fsfasfa
+
 Ciao
