@@ -6,6 +6,8 @@ un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
+commit da tset-1
+
 
 modifiche di master
 per test merge
