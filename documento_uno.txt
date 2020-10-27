@@ -1,16 +1,13 @@
 Documento uno di Test per Git
 Modifica uno 
 
-Ora modifico il file per avere 
-un conflitto durante il merge
-aggiungendo questa linea
-e modificando le due linee sopra.
-
-commit da ????
 
 
 modifiche da branch master
 per test merge
 
+commit da test-1
 
 Ciao
+
+
