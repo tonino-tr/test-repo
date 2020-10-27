@@ -6,7 +6,7 @@ un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
-commit da tset-1
+commit da test-1
 
 
 Ciao
