@@ -8,4 +8,6 @@ un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
+questa riga è modificata sul ramo test-1
+
 Ciao
