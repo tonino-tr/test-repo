@@ -11,4 +11,7 @@ e modificando le due linee sopra.
 questa riga è modificata sul ramo test-1
 ciao ciao
 
+modifica dal ramo test-1
+per provocare errore nel merge
+
 Ciao
