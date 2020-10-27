@@ -6,13 +6,7 @@ un conflitto durante il merge
 aggiungendo questa linea
 e modificando le due linee sopra.
 
-<<<<<<< HEAD
-questa riga è modificata sul ramo test-1
-ciao ciao
+commit da tset-1
 
-modifica dal ramo test-1
-per provocare errore nel merge
-=======
->>>>>>> master
 
 Ciao
